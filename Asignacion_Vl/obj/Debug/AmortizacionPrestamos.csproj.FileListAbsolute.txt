@@ -1,0 +1,20 @@
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.FrmAmortizacionPrestamos.resources
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.exe.config
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.exe
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.pdb
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.exe
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.pdb
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.exe.config
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.exe
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.pdb
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.FrmAmortizacionPrestamos.resources
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.exe
+C:\Users\Carlos\Desktop\Cosas necesarias\Propietaria\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.pdb

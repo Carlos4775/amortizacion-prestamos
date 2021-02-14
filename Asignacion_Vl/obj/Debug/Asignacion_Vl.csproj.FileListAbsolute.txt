@@ -1,0 +1,20 @@
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\obj\Debug\Asignacion_Vl.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\obj\Debug\Asignacion_Vl.Form1.resources
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\obj\Debug\Asignacion_Vl.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\obj\Debug\Asignacion_Vl.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\obj\Debug\Asignacion_Vl.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\bin\Debug\Asignacion_Vl.exe.config
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\bin\Debug\Asignacion_Vl.exe
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\bin\Debug\Asignacion_Vl.pdb
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\obj\Debug\Asignacion_Vl.exe
+C:\Users\sebas\OneDrive\Desktop\Asignacion_Vl\Asignacion_Vl\obj\Debug\Asignacion_Vl.pdb
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\Asignacion_Vl.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\Asignacion_Vl.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\Asignacion_Vl.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\Asignacion_Vl.FrmAmortizacionPrestamos.resources
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.exe.config
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.exe
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\bin\Debug\AmortizacionPrestamos.pdb
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.exe
+C:\Users\Carlos\Desktop\Amortización de prestamos\Asignacion_Vl\obj\Debug\AmortizacionPrestamos.pdb
